@@ -4,6 +4,7 @@ A **real-time face recognition attendance system** built with **Python, OpenCV, 
 The system detects and recognizes faces through a webcam and automatically marks attendance in a CSV file with timestamps.
 
 ---
+<img width="1221" height="726" alt="Screenshot 2025-08-21 002849" src="https://github.com/user-attachments/assets/564b191e-68f3-4a17-a156-5e52e25cfeea" />
 
 
 
