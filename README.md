@@ -5,6 +5,13 @@ The system detects and recognizes faces through a webcam and automatically marks
 
 ---
 
+<img width="967" height="766" alt="Screenshot 2025-08-20 231326" src="https://github.com/user-attachments/assets/e8e748b3-fe5c-4d32-8fef-6123a9d71d31" />
+
+<img width="987" height="833" alt="Screenshot 2025-08-20 231245" src="https://github.com/user-attachments/assets/cbb1688d-eca7-4c9b-a343-a2aa809eefac" />
+
+<img width="453" height="132" alt="Screenshot 2025-08-20 231354" src="https://github.com/user-attachments/assets/1c5c1eec-d614-4718-a4d4-d92b24088be8" />
+
+
 ## 🚀 Features
 - Detect and recognize faces using **HOG-based encodings** from the `face_recognition` library  
 - **Real-time webcam feed** with bounding boxes around detected faces  
